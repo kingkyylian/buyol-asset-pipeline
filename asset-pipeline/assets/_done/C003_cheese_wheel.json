@@ -1,0 +1,12 @@
+{
+  "id": "C003",
+  "name": "cheese_wheel",
+  "tri_count": 60,
+  "tri_budget": 500,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

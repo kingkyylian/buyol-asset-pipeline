@@ -1,0 +1,15 @@
+{
+  "asset_id": "Metal053B",
+  "resolution": "1K",
+  "format": "JPG",
+  "license": "CC0",
+  "source": "ambientcg.com",
+  "maps": {
+    "diffuse": "Metal053B_1K-JPG_Color.jpg",
+    "displacement": "Metal053B_1K-JPG_Displacement.jpg",
+    "metallic": "Metal053B_1K-JPG_Metalness.jpg",
+    "normal_dx": "Metal053B_1K-JPG_NormalDX.jpg",
+    "normal": "Metal053B_1K-JPG_NormalGL.jpg",
+    "roughness": "Metal053B_1K-JPG_Roughness.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "N017",
+  "name": "grass_tuft",
+  "tri_count": 16,
+  "tri_budget": 300,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

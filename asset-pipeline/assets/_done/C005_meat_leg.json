@@ -1,0 +1,12 @@
+{
+  "id": "C005",
+  "name": "meat_leg",
+  "tri_count": 120,
+  "tri_budget": 500,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

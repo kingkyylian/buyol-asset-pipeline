@@ -1,0 +1,12 @@
+{
+  "id": "N001",
+  "name": "rock_small",
+  "tri_count": 80,
+  "tri_budget": 500,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

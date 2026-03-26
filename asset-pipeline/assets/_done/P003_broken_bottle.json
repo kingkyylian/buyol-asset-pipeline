@@ -1,0 +1,12 @@
+{
+  "id": "P003",
+  "name": "broken_bottle",
+  "tri_count": 36,
+  "tri_budget": 1500,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

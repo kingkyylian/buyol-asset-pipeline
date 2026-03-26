@@ -1,0 +1,12 @@
+{
+  "id": "N011",
+  "name": "tree_stump",
+  "tri_count": 104,
+  "tri_budget": 1000,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "asset_id": "ThatchedRoof001A",
+  "resolution": "1K",
+  "format": "JPG",
+  "license": "CC0",
+  "source": "ambientcg.com",
+  "maps": {
+    "ao": "ThatchedRoof001A_1K-JPG_AmbientOcclusion.jpg",
+    "diffuse": "ThatchedRoof001A_1K-JPG_Color.jpg",
+    "displacement": "ThatchedRoof001A_1K-JPG_Displacement.jpg",
+    "normal_dx": "ThatchedRoof001A_1K-JPG_NormalDX.jpg",
+    "normal": "ThatchedRoof001A_1K-JPG_NormalGL.jpg",
+    "roughness": "ThatchedRoof001A_1K-JPG_Roughness.jpg"
+  }
+}

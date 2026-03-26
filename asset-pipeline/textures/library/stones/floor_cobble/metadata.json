@@ -1,0 +1,15 @@
+{
+  "asset_id": "PavingStones150",
+  "resolution": "1K",
+  "format": "JPG",
+  "license": "CC0",
+  "source": "ambientcg.com",
+  "maps": {
+    "ao": "PavingStones150_1K-JPG_AmbientOcclusion.jpg",
+    "diffuse": "PavingStones150_1K-JPG_Color.jpg",
+    "displacement": "PavingStones150_1K-JPG_Displacement.jpg",
+    "normal_dx": "PavingStones150_1K-JPG_NormalDX.jpg",
+    "normal": "PavingStones150_1K-JPG_NormalGL.jpg",
+    "roughness": "PavingStones150_1K-JPG_Roughness.jpg"
+  }
+}

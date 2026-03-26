@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "name": "tankard",
+  "variant": "wooden",
+  "tri_count": 172,
+  "tri_budget": 1000,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

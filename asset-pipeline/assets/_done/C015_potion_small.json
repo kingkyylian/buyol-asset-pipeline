@@ -1,0 +1,13 @@
+{
+  "id": "C015",
+  "name": "potion_small",
+  "variant": "red",
+  "tri_count": 148,
+  "tri_budget": 800,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "asset": "gold_coin",
+  "tri_count": 188,
+  "tri_budget": 200,
+  "qa_passed": true,
+  "materials": [
+    "gold_polished"
+  ],
+  "version": "v2"
+}

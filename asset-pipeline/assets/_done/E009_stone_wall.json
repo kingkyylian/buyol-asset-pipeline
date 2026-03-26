@@ -1,0 +1,12 @@
+{
+  "id": "E009",
+  "name": "stone_wall",
+  "tri_count": 108,
+  "tri_budget": 1500,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "F018",
+  "name": "crate",
+  "tri_count": 188,
+  "tri_budget": 800,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

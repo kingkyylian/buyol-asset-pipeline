@@ -1,0 +1,12 @@
+{
+  "id": "P058",
+  "name": "basket",
+  "tri_count": 44,
+  "tri_budget": 1000,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

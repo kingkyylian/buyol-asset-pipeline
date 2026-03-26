@@ -1,0 +1,12 @@
+{
+  "id": "C001",
+  "name": "bread_loaf",
+  "tri_count": 168,
+  "tri_budget": 500,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

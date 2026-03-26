@@ -1,0 +1,12 @@
+{
+  "id": "N014",
+  "name": "bush",
+  "tri_count": 320,
+  "tri_budget": 1500,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

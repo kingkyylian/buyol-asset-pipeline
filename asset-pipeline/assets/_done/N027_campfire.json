@@ -1,0 +1,12 @@
+{
+  "id": "N027",
+  "name": "campfire",
+  "tri_count": 248,
+  "tri_budget": 1500,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

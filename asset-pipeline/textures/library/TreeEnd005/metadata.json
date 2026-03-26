@@ -1,0 +1,13 @@
+{
+  "asset_id": "TreeEnd005",
+  "resolution": "1K",
+  "format": "JPG",
+  "license": "CC0",
+  "source": "ambientcg.com",
+  "maps": {
+    "diffuse": "TreeEnd005_1K-JPG_Color.jpg",
+    "normal_dx": "TreeEnd005_1K-JPG_NormalDX.jpg",
+    "normal": "TreeEnd005_1K-JPG_NormalGL.jpg",
+    "roughness": "TreeEnd005_1K-JPG_Roughness.jpg"
+  }
+}

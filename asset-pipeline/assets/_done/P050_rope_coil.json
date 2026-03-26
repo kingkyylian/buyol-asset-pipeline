@@ -1,0 +1,12 @@
+{
+  "id": "P050",
+  "name": "rope_coil",
+  "tri_count": 192,
+  "tri_budget": 1000,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

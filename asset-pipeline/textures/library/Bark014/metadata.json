@@ -1,0 +1,15 @@
+{
+  "asset_id": "Bark014",
+  "resolution": "1K",
+  "format": "JPG",
+  "license": "CC0",
+  "source": "ambientcg.com",
+  "maps": {
+    "ao": "Bark014_1K-JPG_AmbientOcclusion.jpg",
+    "diffuse": "Bark014_1K-JPG_Color.jpg",
+    "displacement": "Bark014_1K-JPG_Displacement.jpg",
+    "normal_dx": "Bark014_1K-JPG_NormalDX.jpg",
+    "normal": "Bark014_1K-JPG_NormalGL.jpg",
+    "roughness": "Bark014_1K-JPG_Roughness.jpg"
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "batch": "Batch 1 — Her Sahnede Lazım",
+  "assets": [
+    {
+      "id": "F016",
+      "name": "barrel",
+      "display_name": "Varil",
+      "category": "furniture",
+      "tri_budget": 1000,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "body", "type": "library", "path": "woods/oak_rough"}
+      ],
+      "variants": ["clean", "old", "broken"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "F018",
+      "name": "crate",
+      "display_name": "Kasa",
+      "category": "furniture",
+      "tri_budget": 800,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "body", "type": "library", "path": "woods/pine_clean"}
+      ],
+      "variants": ["small", "large"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "P001",
+      "name": "wine_bottle",
+      "display_name": "Şarap Şişesi",
+      "category": "prop",
+      "tri_budget": 1000,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "glass", "type": "procedural", "preset": "glass_dark_green"},
+        {"part": "label", "type": "library", "path": "paper/label_worn"}
+      ],
+      "variants": ["green", "brown"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "P003",
+      "name": "broken_bottle",
+      "display_name": "Kırık Şişe",
+      "category": "prop",
+      "tri_budget": 1500,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "glass", "type": "procedural", "preset": "glass_dark_green"}
+      ],
+      "variants": ["green", "brown"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "P004",
+      "name": "tankard",
+      "display_name": "Bira Bardağı",
+      "category": "prop",
+      "tri_budget": 1000,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "body", "type": "library", "path": "woods/oak_polished"}
+      ],
+      "variants": ["wooden", "metal"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "P013",
+      "name": "candle",
+      "display_name": "Mum",
+      "category": "prop",
+      "tri_budget": 300,
+      "texture_res": 512,
+      "materials": [
+        {"part": "wax", "type": "procedural", "preset": "wax_cream"},
+        {"part": "wick", "type": "color", "hex": "#1a1a1a"}
+      ],
+      "variants": ["tall", "short", "melted"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "P015",
+      "name": "candlestick",
+      "display_name": "Şamdan",
+      "category": "prop",
+      "tri_budget": 1000,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "body", "type": "procedural", "preset": "bronze_aged"}
+      ],
+      "variants": ["bronze", "silver"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "P017",
+      "name": "oil_lantern",
+      "display_name": "Fener",
+      "category": "prop",
+      "tri_budget": 1500,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "frame", "type": "procedural", "preset": "iron_dark"},
+        {"part": "glass", "type": "procedural", "preset": "glass_clear"}
+      ],
+      "variants": [],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "P021",
+      "name": "torch_handheld",
+      "display_name": "Meşale",
+      "category": "prop",
+      "tri_budget": 1000,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "handle", "type": "library", "path": "woods/birch_rough"},
+        {"part": "wrap", "type": "library", "path": "fabrics/cloth_torn"}
+      ],
+      "variants": [],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "F008",
+      "name": "stool",
+      "display_name": "Tabure",
+      "category": "furniture",
+      "tri_budget": 1000,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "body", "type": "library", "path": "woods/oak_rough"}
+      ],
+      "variants": [],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "F001",
+      "name": "dining_table",
+      "display_name": "Yemek Masası",
+      "category": "furniture",
+      "tri_budget": 2500,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "body", "type": "library", "path": "woods/oak_dark"}
+      ],
+      "variants": ["clean", "old"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "F006",
+      "name": "wooden_chair",
+      "display_name": "Ahşap Sandalye",
+      "category": "furniture",
+      "tri_budget": 1500,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "body", "type": "library", "path": "woods/oak_dark"}
+      ],
+      "variants": [],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "E001",
+      "name": "wooden_door",
+      "display_name": "Ahşap Kapı",
+      "category": "environment",
+      "tri_budget": 2000,
+      "texture_res": 2048,
+      "materials": [
+        {"part": "wood", "type": "library", "path": "woods/oak_rough"},
+        {"part": "hardware", "type": "procedural", "preset": "iron_dark"}
+      ],
+      "variants": ["clean", "old"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "E025",
+      "name": "wooden_fence",
+      "display_name": "Ahşap Çit",
+      "category": "environment",
+      "tri_budget": 1000,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "body", "type": "library", "path": "woods/pine_weathered"}
+      ],
+      "variants": ["clean", "broken"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "E009",
+      "name": "stone_wall",
+      "display_name": "Taş Duvar (2m)",
+      "category": "environment",
+      "tri_budget": 1500,
+      "texture_res": 2048,
+      "materials": [
+        {"part": "body", "type": "library", "path": "stones/castle_wall"}
+      ],
+      "variants": ["clean", "ruined"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "E014",
+      "name": "stone_floor",
+      "display_name": "Taş Zemin",
+      "category": "environment",
+      "tri_budget": 500,
+      "texture_res": 2048,
+      "materials": [
+        {"part": "body", "type": "library", "path": "stones/floor_cobble"}
+      ],
+      "variants": [],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "N001",
+      "name": "rock_small",
+      "display_name": "Küçük Kaya",
+      "category": "nature",
+      "tri_budget": 500,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "body", "type": "library", "path": "stones/rock_mossy"}
+      ],
+      "variants": ["a", "b", "c"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "N011",
+      "name": "tree_stump",
+      "display_name": "Kütük",
+      "category": "nature",
+      "tri_budget": 1000,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "bark", "type": "library", "path": "woods/bark_oak"},
+        {"part": "cross_section", "type": "library", "path": "woods/oak_cut"}
+      ],
+      "variants": [],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "N014",
+      "name": "bush",
+      "display_name": "Çalı",
+      "category": "nature",
+      "tri_budget": 1500,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "leaves", "type": "library", "path": "foliage/leaves_green"}
+      ],
+      "variants": ["green", "autumn"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "N017",
+      "name": "grass_tuft",
+      "display_name": "Ot",
+      "category": "nature",
+      "tri_budget": 300,
+      "texture_res": 512,
+      "materials": [
+        {"part": "blades", "type": "library", "path": "foliage/grass_alpha"}
+      ],
+      "variants": [],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "N032",
+      "name": "hay_bale",
+      "display_name": "Saman Balyası",
+      "category": "nature",
+      "tri_budget": 1000,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "body", "type": "library", "path": "organic/hay_dry"}
+      ],
+      "variants": [],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "N027",
+      "name": "campfire",
+      "display_name": "Kamp Ateşi",
+      "category": "nature",
+      "tri_budget": 1500,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "logs", "type": "library", "path": "woods/birch_charred"},
+        {"part": "stones", "type": "library", "path": "stones/river_smooth"},
+        {"part": "ash", "type": "color", "hex": "#2a2a2a"}
+      ],
+      "variants": ["burning", "extinguished"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "C001",
+      "name": "bread_loaf",
+      "display_name": "Ekmek",
+      "category": "consumable",
+      "tri_budget": 500,
+      "texture_res": 512,
+      "materials": [
+        {"part": "body", "type": "procedural", "preset": "bread_crust"}
+      ],
+      "variants": ["whole", "sliced"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "C003",
+      "name": "cheese_wheel",
+      "display_name": "Peynir",
+      "category": "consumable",
+      "tri_budget": 500,
+      "texture_res": 512,
+      "materials": [
+        {"part": "body", "type": "procedural", "preset": "cheese_yellow"}
+      ],
+      "variants": ["whole", "sliced"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "C005",
+      "name": "meat_leg",
+      "display_name": "Et (but)",
+      "category": "consumable",
+      "tri_budget": 500,
+      "texture_res": 512,
+      "materials": [
+        {"part": "body", "type": "procedural", "preset": "meat_cooked"}
+      ],
+      "variants": ["raw", "cooked"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "C015",
+      "name": "potion_small",
+      "display_name": "İksir Şişesi",
+      "category": "consumable",
+      "tri_budget": 800,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "glass", "type": "procedural", "preset": "glass_clear"},
+        {"part": "liquid", "type": "color", "hex": "#cc0000"},
+        {"part": "cork", "type": "library", "path": "woods/cork"}
+      ],
+      "variants": ["red", "blue", "green", "purple", "yellow"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "P041",
+      "name": "key",
+      "display_name": "Anahtar",
+      "category": "prop",
+      "tri_budget": 500,
+      "texture_res": 512,
+      "materials": [
+        {"part": "body", "type": "procedural", "preset": "iron_dark"}
+      ],
+      "variants": ["simple", "ornate", "rusty", "golden", "skeleton"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "P050",
+      "name": "rope_coil",
+      "display_name": "Halat",
+      "category": "prop",
+      "tri_budget": 1000,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "body", "type": "library", "path": "fabrics/rope_hemp"}
+      ],
+      "variants": [],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "P052",
+      "name": "bucket",
+      "display_name": "Kova",
+      "category": "prop",
+      "tri_budget": 800,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "wood", "type": "library", "path": "woods/pine_clean"},
+        {"part": "bands", "type": "procedural", "preset": "iron_dark"}
+      ],
+      "variants": ["wooden", "metal"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "P059",
+      "name": "sack",
+      "display_name": "Çuval",
+      "category": "prop",
+      "tri_budget": 800,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "body", "type": "library", "path": "fabrics/burlap"}
+      ],
+      "variants": ["full", "empty"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "P058",
+      "name": "basket",
+      "display_name": "Sepet",
+      "category": "prop",
+      "tri_budget": 1000,
+      "texture_res": 1024,
+      "materials": [
+        {"part": "body", "type": "library", "path": "organic/wicker"}
+      ],
+      "variants": ["empty", "with_fruit"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "P011",
+      "name": "plate",
+      "display_name": "Tabak",
+      "category": "prop",
+      "tri_budget": 500,
+      "texture_res": 512,
+      "materials": [
+        {"part": "body", "type": "procedural", "preset": "ceramic_white"}
+      ],
+      "variants": ["ceramic", "wooden"],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "P031",
+      "name": "gold_coin",
+      "display_name": "Altın Sikke",
+      "category": "prop",
+      "tri_budget": 200,
+      "texture_res": 512,
+      "materials": [
+        {"part": "body", "type": "procedural", "preset": "gold_polished"}
+      ],
+      "variants": [],
+      "export": ["fbx", "glb"]
+    },
+    {
+      "id": "F013",
+      "name": "treasure_chest",
+      "display_name": "Hazine Sandığı",
+      "category": "furniture",
+      "tri_budget": 2500,
+      "texture_res": 2048,
+      "materials": [
+        {"part": "wood", "type": "library", "path": "woods/oak_dark"},
+        {"part": "hardware", "type": "procedural", "preset": "iron_dark"},
+        {"part": "lock", "type": "procedural", "preset": "gold_polished"}
+      ],
+      "variants": [],
+      "export": ["fbx", "glb"]
+    }
+  ]
+}

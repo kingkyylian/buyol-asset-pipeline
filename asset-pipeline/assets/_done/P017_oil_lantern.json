@@ -1,0 +1,12 @@
+{
+  "id": "P017",
+  "name": "oil_lantern",
+  "tri_count": 152,
+  "tri_budget": 1500,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

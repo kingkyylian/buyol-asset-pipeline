@@ -1,0 +1,12 @@
+{
+  "id": "E025",
+  "name": "wooden_fence",
+  "tri_count": 84,
+  "tri_budget": 1000,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

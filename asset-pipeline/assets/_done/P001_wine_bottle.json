@@ -1,0 +1,12 @@
+{
+  "id": "P001",
+  "name": "wine_bottle",
+  "tri_count": 44,
+  "tri_budget": 1000,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

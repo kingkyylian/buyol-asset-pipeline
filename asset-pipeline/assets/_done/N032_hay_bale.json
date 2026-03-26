@@ -1,0 +1,12 @@
+{
+  "id": "N032",
+  "name": "hay_bale",
+  "tri_count": 12,
+  "tri_budget": 1000,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

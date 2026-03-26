@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "name": "candle",
+  "variant": "tall",
+  "tri_count": 64,
+  "tri_budget": 300,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

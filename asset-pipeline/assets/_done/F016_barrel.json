@@ -1,0 +1,17 @@
+{
+  "id": "F016",
+  "name": "barrel",
+  "variant": "clean",
+  "tri_count": 476,
+  "tri_budget": 1000,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ],
+  "materials": [
+    "barrel_wood (PBR Wood049)",
+    "barrel_iron_band (procedural)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "asset_id": "Paper006",
+  "resolution": "1K",
+  "format": "JPG",
+  "license": "CC0",
+  "source": "ambientcg.com",
+  "maps": {
+    "diffuse": "Paper006_1K-JPG_Color.jpg",
+    "displacement": "Paper006_1K-JPG_Displacement.jpg",
+    "normal_dx": "Paper006_1K-JPG_NormalDX.jpg",
+    "normal": "Paper006_1K-JPG_NormalGL.jpg",
+    "roughness": "Paper006_1K-JPG_Roughness.jpg"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P041",
+  "name": "key",
+  "variant": "simple",
+  "tri_count": 208,
+  "tri_budget": 500,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

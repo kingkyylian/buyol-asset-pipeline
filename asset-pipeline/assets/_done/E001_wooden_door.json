@@ -1,0 +1,12 @@
+{
+  "id": "E001",
+  "name": "wooden_door",
+  "tri_count": 100,
+  "tri_budget": 2000,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

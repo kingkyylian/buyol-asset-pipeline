@@ -1,0 +1,12 @@
+{
+  "id": "F013",
+  "name": "treasure_chest",
+  "tri_count": 154,
+  "tri_budget": 2500,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

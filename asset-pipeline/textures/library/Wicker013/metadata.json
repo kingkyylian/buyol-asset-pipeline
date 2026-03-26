@@ -1,0 +1,15 @@
+{
+  "asset_id": "Wicker013",
+  "resolution": "1K",
+  "format": "JPG",
+  "license": "CC0",
+  "source": "ambientcg.com",
+  "maps": {
+    "ao": "Wicker013_1K-JPG_AmbientOcclusion.jpg",
+    "diffuse": "Wicker013_1K-JPG_Color.jpg",
+    "displacement": "Wicker013_1K-JPG_Displacement.jpg",
+    "normal_dx": "Wicker013_1K-JPG_NormalDX.jpg",
+    "normal": "Wicker013_1K-JPG_NormalGL.jpg",
+    "roughness": "Wicker013_1K-JPG_Roughness.jpg"
+  }
+}

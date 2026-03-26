@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "name": "candlestick",
+  "variant": "bronze",
+  "tri_count": 180,
+  "tri_budget": 1000,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

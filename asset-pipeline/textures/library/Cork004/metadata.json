@@ -1,0 +1,14 @@
+{
+  "asset_id": "Cork004",
+  "resolution": "1K",
+  "format": "JPG",
+  "license": "CC0",
+  "source": "ambientcg.com",
+  "maps": {
+    "diffuse": "Cork004_1K-JPG_Color.jpg",
+    "displacement": "Cork004_1K-JPG_Displacement.jpg",
+    "normal_dx": "Cork004_1K-JPG_NormalDX.jpg",
+    "normal": "Cork004_1K-JPG_NormalGL.jpg",
+    "roughness": "Cork004_1K-JPG_Roughness.jpg"
+  }
+}

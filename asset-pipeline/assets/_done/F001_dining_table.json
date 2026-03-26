@@ -1,0 +1,12 @@
+{
+  "id": "F001",
+  "name": "dining_table",
+  "tri_count": 96,
+  "tri_budget": 2500,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

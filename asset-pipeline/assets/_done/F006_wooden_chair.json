@@ -1,0 +1,12 @@
+{
+  "id": "F006",
+  "name": "wooden_chair",
+  "tri_count": 108,
+  "tri_budget": 1500,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

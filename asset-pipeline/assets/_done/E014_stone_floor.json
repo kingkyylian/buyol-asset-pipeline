@@ -1,0 +1,12 @@
+{
+  "id": "E014",
+  "name": "stone_floor",
+  "tri_count": 32,
+  "tri_budget": 500,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

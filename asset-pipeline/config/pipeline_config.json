@@ -1,0 +1,46 @@
+{
+    "render_engine": "BLENDER_EEVEE",
+    "render_resolution": [1024, 1024],
+    "thumbnail_resolution": [1024, 1024],
+    "film_transparent": true,
+    "default_export_formats": ["fbx", "glb"],
+    "uv": {
+        "margin": 0.02,
+        "angle_threshold": 60,
+        "default_method": "smart"
+    },
+    "lighting": {
+        "key_energy": 4.0,
+        "fill_energy": 3.0,
+        "rim_energy": 2.5
+    },
+    "poly_budgets": {
+        "prop": 5000,
+        "weapon": 8000,
+        "char": 15000,
+        "env": 3000,
+        "vehicle": 20000,
+        "furniture": 5000,
+        "nature": 3000,
+        "consumable": 2000
+    },
+    "texture_resolutions": {
+        "prop": 1024,
+        "weapon": 2048,
+        "char": 2048,
+        "env": 1024,
+        "vehicle": 2048,
+        "furniture": 1024,
+        "nature": 1024,
+        "consumable": 512
+    },
+    "ai_generation": {
+        "default_method": "hunyuan",
+        "fallback": "sketchfab",
+        "auto_decimate": true
+    },
+    "ambientcg": {
+        "default_resolution": "1K",
+        "default_format": "JPG"
+    }
+}

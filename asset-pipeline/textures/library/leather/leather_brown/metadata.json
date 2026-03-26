@@ -1,0 +1,14 @@
+{
+  "asset_id": "Leather037",
+  "resolution": "1K",
+  "format": "JPG",
+  "license": "CC0",
+  "source": "ambientcg.com",
+  "maps": {
+    "diffuse": "Leather037_1K-JPG_Color.jpg",
+    "displacement": "Leather037_1K-JPG_Displacement.jpg",
+    "normal_dx": "Leather037_1K-JPG_NormalDX.jpg",
+    "normal": "Leather037_1K-JPG_NormalGL.jpg",
+    "roughness": "Leather037_1K-JPG_Roughness.jpg"
+  }
+}

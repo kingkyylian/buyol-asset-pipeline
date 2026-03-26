@@ -1,0 +1,12 @@
+{
+  "id": "P052",
+  "name": "bucket",
+  "tri_count": 296,
+  "tri_budget": 800,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

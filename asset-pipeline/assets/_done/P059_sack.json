@@ -1,0 +1,12 @@
+{
+  "id": "P059",
+  "name": "sack",
+  "tri_count": 140,
+  "tri_budget": 800,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

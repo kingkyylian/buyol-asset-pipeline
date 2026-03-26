@@ -1,0 +1,15 @@
+{
+  "asset_id": "WoodSiding013",
+  "resolution": "1K",
+  "format": "JPG",
+  "license": "CC0",
+  "source": "ambientcg.com",
+  "maps": {
+    "ao": "WoodSiding013_1K-JPG_AmbientOcclusion.jpg",
+    "diffuse": "WoodSiding013_1K-JPG_Color.jpg",
+    "displacement": "WoodSiding013_1K-JPG_Displacement.jpg",
+    "normal_dx": "WoodSiding013_1K-JPG_NormalDX.jpg",
+    "normal": "WoodSiding013_1K-JPG_NormalGL.jpg",
+    "roughness": "WoodSiding013_1K-JPG_Roughness.jpg"
+  }
+}

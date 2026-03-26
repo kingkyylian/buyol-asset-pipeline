@@ -1,0 +1,15 @@
+{
+  "asset_id": "Metal046B",
+  "resolution": "1K",
+  "format": "JPG",
+  "license": "CC0",
+  "source": "ambientcg.com",
+  "maps": {
+    "diffuse": "Metal046B_1K-JPG_Color.jpg",
+    "displacement": "Metal046B_1K-JPG_Displacement.jpg",
+    "metallic": "Metal046B_1K-JPG_Metalness.jpg",
+    "normal_dx": "Metal046B_1K-JPG_NormalDX.jpg",
+    "normal": "Metal046B_1K-JPG_NormalGL.jpg",
+    "roughness": "Metal046B_1K-JPG_Roughness.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "F008",
+  "name": "stool",
+  "tri_count": 164,
+  "tri_budget": 1000,
+  "qa_passed": true,
+  "exports": [
+    "fbx",
+    "glb",
+    "thumbnail"
+  ]
+}

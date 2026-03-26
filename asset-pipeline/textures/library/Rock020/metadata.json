@@ -1,0 +1,15 @@
+{
+  "asset_id": "Rock020",
+  "resolution": "1K",
+  "format": "JPG",
+  "license": "CC0",
+  "source": "ambientcg.com",
+  "maps": {
+    "ao": "Rock020_1K-JPG_AmbientOcclusion.jpg",
+    "diffuse": "Rock020_1K-JPG_Color.jpg",
+    "displacement": "Rock020_1K-JPG_Displacement.jpg",
+    "normal_dx": "Rock020_1K-JPG_NormalDX.jpg",
+    "normal": "Rock020_1K-JPG_NormalGL.jpg",
+    "roughness": "Rock020_1K-JPG_Roughness.jpg"
+  }
+}

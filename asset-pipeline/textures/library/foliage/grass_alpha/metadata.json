@@ -1,0 +1,15 @@
+{
+  "asset_id": "Grass005",
+  "resolution": "1K",
+  "format": "JPG",
+  "license": "CC0",
+  "source": "ambientcg.com",
+  "maps": {
+    "ao": "Grass005_1K-JPG_AmbientOcclusion.jpg",
+    "diffuse": "Grass005_1K-JPG_Color.jpg",
+    "displacement": "Grass005_1K-JPG_Displacement.jpg",
+    "normal_dx": "Grass005_1K-JPG_NormalDX.jpg",
+    "normal": "Grass005_1K-JPG_NormalGL.jpg",
+    "roughness": "Grass005_1K-JPG_Roughness.jpg"
+  }
+}
